@@ -1,0 +1,21 @@
+{
+    "ImportWeb.NavTitle": "Import Web",
+    "ImportWeb.PageTitle": "Import recipe from any web page",
+    "ImportWeb.PageSubtitle": "Paste a URL. The import-web plugin fetches the page, extracts a recipe, and lets you edit it before saving.",
+    "ImportWeb.UrlLabel": "Web page (https://...)",
+    "ImportWeb.VideoTitle": "Import recipe from a video",
+    "ImportWeb.VideoSubtitle": "Paste a video URL. The plugin reads the captions, asks the LLM to turn them into a recipe, and lets you edit it before saving.",
+    "ImportWeb.VideoUrlLabel": "Video URL (https://www.youtube.com/watch?v=...)",
+    "ImportWeb.VideoStatusTranscribe": "Reading subtitles…",
+    "ImportWeb.VideoStatusExtract": "Generating recipe…",
+    "ImportWeb.VideoNoTranscript": "No usable subtitle track was found for this video.",
+    "ImportWeb.PreviewEdit": "Preview & edit",
+    "ImportWeb.ChooseImage": "Choose an image",
+    "ImportWeb.Upload": "Upload",
+    "ImportWeb.ToImport": "to import",
+    "ImportWeb.AddStep": "Add step",
+    "ImportWeb.IngredientsEditable": "Ingredients (editable)",
+    "ImportWeb.PrepLabel": "prep {time}m",
+    "ImportWeb.WaitLabel": "wait {time}m",
+    "ImportWeb.SaveRecipe": "Save recipe"
+}

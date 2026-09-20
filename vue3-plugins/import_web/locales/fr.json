@@ -1,0 +1,21 @@
+{
+    "ImportWeb.NavTitle": "Import Web",
+    "ImportWeb.PageTitle": "Importer une recette depuis n'importe quelle page web",
+    "ImportWeb.PageSubtitle": "Collez une URL. Le plugin import-web récupère la page, extrait une recette et vous permet de l'éditer avant l'enregistrement.",
+    "ImportWeb.UrlLabel": "Page web (https://...)",
+    "ImportWeb.VideoTitle": "Importer une recette depuis une vidéo",
+    "ImportWeb.VideoSubtitle": "Collez l'URL d'une vidéo. Le plugin lit les sous-titres, demande à l'IA d'en faire une recette et vous permet de l'éditer avant l'enregistrement.",
+    "ImportWeb.VideoUrlLabel": "URL de la vidéo (https://www.youtube.com/watch?v=...)",
+    "ImportWeb.VideoStatusTranscribe": "Lecture des sous-titres…",
+    "ImportWeb.VideoStatusExtract": "Génération de la recette…",
+    "ImportWeb.VideoNoTranscript": "Aucune piste de sous-titres utilisable n'a été trouvée pour cette vidéo.",
+    "ImportWeb.PreviewEdit": "Aperçu et édition",
+    "ImportWeb.ChooseImage": "Choisir une image",
+    "ImportWeb.Upload": "Téléverser",
+    "ImportWeb.ToImport": "à importer",
+    "ImportWeb.AddStep": "Ajouter une étape",
+    "ImportWeb.IngredientsEditable": "Ingrédients (modifiables)",
+    "ImportWeb.PrepLabel": "préparation {time}min",
+    "ImportWeb.WaitLabel": "repos {time}min",
+    "ImportWeb.SaveRecipe": "Enregistrer la recette"
+}

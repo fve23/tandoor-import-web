@@ -1,0 +1,21 @@
+{
+    "ImportWeb.NavTitle": "Import Web",
+    "ImportWeb.PageTitle": "Rezept von beliebiger Webseite importieren",
+    "ImportWeb.PageSubtitle": "Füge eine URL ein. Das import-web-Plugin lädt die Seite, extrahiert ein Rezept und lässt dich es vor dem Speichern bearbeiten.",
+    "ImportWeb.UrlLabel": "Webseite (https://...)",
+    "ImportWeb.VideoTitle": "Rezept aus einem Video importieren",
+    "ImportWeb.VideoSubtitle": "Füge eine Video-URL ein. Das Plugin liest die Untertitel, bittet die KI darum, daraus ein Rezept zu machen und lässt dich es vor dem Speichern bearbeiten.",
+    "ImportWeb.VideoUrlLabel": "Video-URL (https://www.youtube.com/watch?v=...)",
+    "ImportWeb.VideoStatusTranscribe": "Untertitel werden gelesen…",
+    "ImportWeb.VideoStatusExtract": "Rezept wird erstellt…",
+    "ImportWeb.VideoNoTranscript": "Für dieses Video wurde keine brauchbare Untertitelspur gefunden.",
+    "ImportWeb.PreviewEdit": "Vorschau und Bearbeiten",
+    "ImportWeb.ChooseImage": "Bild auswählen",
+    "ImportWeb.Upload": "Hochladen",
+    "ImportWeb.ToImport": "zum Importieren",
+    "ImportWeb.AddStep": "Schritt hinzufügen",
+    "ImportWeb.IngredientsEditable": "Zutaten (bearbeitbar)",
+    "ImportWeb.PrepLabel": "Zubereitung {time}Min.",
+    "ImportWeb.WaitLabel": "Wartezeit {time}Min.",
+    "ImportWeb.SaveRecipe": "Rezept speichern"
+}
