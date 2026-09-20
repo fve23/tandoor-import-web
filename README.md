@@ -25,8 +25,8 @@ First, clone the repo on your server drive.
 
 ### Non-docker setup
 
-- Copy import_web into recipes/recipes/plugins/
-- Copy vue3-plugins into recipes/vue3/src/plugins
+- Copy the folder import_web into recipes/recipes/plugins/
+- Copy the contents of vue3-plugins into recipes/vue3/src/plugins
 - Add one environment variable:
   - PLUGINS_BUILD=1
 
